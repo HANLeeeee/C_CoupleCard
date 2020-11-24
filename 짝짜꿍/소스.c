@@ -4,7 +4,7 @@
 #include<conio.h>      //키보드입력시 화면이 이동
 #include<time.h>      //srand함수이용
 
-//깃허브 
+//한글에러
 
 #define Esc 27
 #define Enter 13
