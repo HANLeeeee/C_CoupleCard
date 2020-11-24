@@ -4,8 +4,6 @@
 #include<conio.h>      //키보드입력시 화면이 이동
 #include<time.h>      //srand함수이용
 
-//한글에러
-
 #define Esc 27
 #define Enter 13
 #define COL GetStdHandle(STD_OUTPUT_HANDLE)     //색깔지정
